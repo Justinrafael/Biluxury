@@ -662,7 +662,7 @@ hr {
    }
    .promo1-container h1 {
     padding-left: 30px;
-    font-family: fantasy;
+    font-family: "Anton", sans-serif;
     font-size: 2rem;
    }
    .promo1-container span {
@@ -693,7 +693,7 @@ hr {
    }
    /* Product section*/
    .product {
-    margin-top: 50px;
+    margin-top: 100px;
    }
    .prod {
     display: flex;
