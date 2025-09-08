@@ -115,7 +115,7 @@ body {
     color: #171616;
     font-family: fantasy;
 }
-span {
+.home span {
     color: #b74b4b;
     font-family: 'Anton', sans-serif;
     animation: glow 2s ease-in-out infinite alternate;
