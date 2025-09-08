@@ -652,7 +652,7 @@ hr {
    .promo1-container {
     display: block;
     height: 70vh;
-    margin-top: 20rem;
+    margin-top: 25rem;
    }
    .promo1-container h3 {
     padding-left: 30px;
@@ -722,26 +722,6 @@ hr {
     opacity: 0.6;
    }
    .scroll-indicator.next .icon {
-    font-size: 2rem;
-    font-weight: bold;
-    margin-right: 5px;
-   }
-   .scroll-indicator.prev {
-    position: absolute;
-    left: -5px;
-    top: 50%;
-    transform: translateY(-50%);
-    z-index: 10;
-    display: flex;
-    background-color: rgba(255, 255, 255, 0.8);
-    border: 1px solid #ccc;
-    padding: 15px 30px;
-    font-size: 14px;
-    border-radius: 60%;
-    transition: opacity 0.9s ease;
-    opacity: 0.6;
-   }
-   .scroll-indicator.prev .icon {
     font-size: 2rem;
     font-weight: bold;
     margin-right: 5px;
