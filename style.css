@@ -506,7 +506,9 @@ hr {
     position: fixed;
     opacity: 0.8;
     height: 80px;
-    z-index: 1;
+    z-index: 1000;
+    top: 0;
+    left: 0;
     width: 100%;
     max-width: 1300px;
     padding: 0;
