@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 * {
     padding: 0;
     margin: 0;
@@ -42,7 +43,7 @@ body {
     cursor: pointer;
     text-decoration: none;
     font-size: 2.5rem;
-    font-family: fantasy;
+    font-family: "Anton", sans-serif;
     animation: glow 2s ease-in-out infinite alternate;
 }
 .fa-gem {
@@ -165,7 +166,7 @@ span {
 .overview h2 {
     font-size: 2.5rem;
     color: #b74b4b;
-    font-family: fantasy;
+    font-family: "Anton", sans-serif;
     margin-bottom: 20px;
 }
 .overview-content {
@@ -247,7 +248,7 @@ span {
     margin-right: 30px;
 }
 .promo-content h1 {
-    font-family: fantasy;
+    font-family: "Anton", sans-serif;
     font-size: 3.5rem;
 }
 .promo-content h3 {
@@ -293,7 +294,7 @@ span {
     text-align: center;
     margin: 20px 20px;
     font-size: 2.5rem;
-    font-family: fantasy;
+    font-family: "Anton", sans-serif;
 }
 .product-container {
     display: flex;
@@ -368,7 +369,7 @@ span {
 .reviews-section h2 {
     color: #b74b4b;
     font-size: 2.5rem;
-    font-family: fantasy;
+    font-family: "Anton", sans-serif;
     margin-bottom: 20px;
 }
 .reviews-container {
@@ -417,7 +418,7 @@ span {
 .contact-container h2 {
     color: #2c3e50;
     font-size: 2.5rem;
-    font-family: fantasy;
+    font-family: "Anton", sans-serif;
     margin-bottom: 20px;
 }
 .contact-container p {
@@ -653,7 +654,7 @@ hr {
    .promo1-container h3 {
     padding-left: 30px;
     text-align: left;
-    font-family: fantasy;
+    font-family: "Anton", sans-serif;
     font-size: 1.5rem;
    }
    .promo1-container h1 {
